@@ -1,2 +1,3 @@
 # hello-world
-just first try
+hi fellows
+i am a new comer who wish to go far on Android programming
